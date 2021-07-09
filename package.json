@@ -1,6 +1,5 @@
 {
   "name": "jobboard",
-  "homepage": "https://jobboard.dexignlab.com/react/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
